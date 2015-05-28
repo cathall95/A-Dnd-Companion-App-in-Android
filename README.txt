@@ -1,0 +1,1 @@
+This is a Dnd companion app made in android. It can create and store character sheets and has a motion controlled dice roller
